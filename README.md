@@ -7,12 +7,12 @@
 
 | Time (mins) | Topic | Materials |
 | :--- | :--- | :--- |
-| **0-5** | **Introduction: What is React Native?** | [📖 Lesson Notes](../01-introduction/what-is-react-native.md) |
-| **5-20** | **Core Concepts & Components** | [📖 Lesson Notes](../02-core-concepts/core-concepts.md)<br>[💻 BasicComponents.tsx](../02-core-concepts/BasicComponents.tsx)<br>[💻 StyledCard.tsx](../02-core-concepts/StyledCard.tsx) |
-| **20-30**| **Platform Differences & Hooks** | [📖 Lesson Notes](../03-platform-differences/platform-differences.md)<br>[💻 PlatformAwareButton.tsx](../03-platform-differences/PlatformAwareButton.tsx) |
-| **30-45**| **The Expo Ecosystem** | [📖 Lesson Notes](../04-expo-ecosystem/expo-ecosystem.md)<br>[⚙️ app.config.js](../04-expo-ecosystem/app.config.js) |
-| **45-55**| **Building & Signing for Stores** | [📖 Lesson Notes](../05-building-signing/building-and-signing.md)<br>[📋 EAS Commands](../05-building-signing/eas-commands.md) |
-| **55-60**| **Recap & Next Steps** | [📖 Lesson Notes](../06-recap/recap-and-next-steps.md) |
+| **0-5** | **Introduction: What is React Native?** | [📖 Lesson Notes](./01-introduction/what-is-react-native.md) |
+| **5-20** | **Core Concepts & Components** | [📖 Lesson Notes](./02-core-concepts/README.md)<br>[💻 BasicComponents.tsx](./02-core-concepts/BasicComponents.tsx)<br>[💻 StyledCard.tsx](./02-core-concepts/StyledCard.tsx) |
+| **20-30**| **Platform Differences & Hooks** | [📖 Lesson Notes](./03-platform-differences/README.md)<br>[💻 PlatformAwareButton.tsx](./03-platform-differences/PlatformAwareButton.tsx) |
+| **30-45**| **The Expo Ecosystem** | [📖 Lesson Notes](./04-expo-ecosystem/README.md)<br>[⚙️ app.config.js](./04-expo-ecosystem/app.config.js) |
+| **45-55**| **Building & Signing for Stores** | [📖 Lesson Notes](./05-building-signing/building-and-signing.md)<br>[📋 EAS Commands](./05-building-signing/eas-commands.md) |
+| **55-60**| **Recap & Next Steps** | [📖 Lesson Notes](./06-recap/recap-and-next-steps.md) |
 
 ## Quick Start
 

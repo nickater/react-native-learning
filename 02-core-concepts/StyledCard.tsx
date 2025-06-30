@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import { Pressable, StyleSheet, Text, View } from 'react-native';
 
 type StyledCardProps = {

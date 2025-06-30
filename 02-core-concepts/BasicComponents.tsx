@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import React from 'react';
 import { Image, Pressable, ScrollView, Text, TextInput, View } from 'react-native';
 

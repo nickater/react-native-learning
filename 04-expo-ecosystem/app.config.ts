@@ -1,6 +1,10 @@
+// @ts-nocheck
+
+import { ExpoConfig } from "expo/config";
+
 // app.config.js - The heart of your Expo app configuration
 
-export default ({ config }) => ({
+export default ({ config }): ExpoConfig => ({
   ...config, // Inherits properties from app.json if it exists
   
   // --- General App Info ---

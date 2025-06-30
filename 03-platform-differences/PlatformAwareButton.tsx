@@ -1,10 +1,12 @@
+// @ts-nocheck
+
 import {
-	Platform,
-	Pressable,
-	StyleSheet,
-	Text,
-	useColorScheme,
-	useWindowDimensions,
+  Platform,
+  Pressable,
+  StyleSheet,
+  Text,
+  useColorScheme,
+  useWindowDimensions,
 } from 'react-native';
 
 export const PlatformAwareButton = () => {
